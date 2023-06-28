@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ivsacim"]
 	path = ivsacim
 	url = https://github.com/cran/ivsacim
-	shallow = true
-	registered = true
 [submodule "NMMIPW"]
 	path = NMMIPW
 	url = https://github.com/cran/NMMIPW
-	shallow = true
-	registered = true
 [submodule "PCL"]
 	path = PCL
 	url = https://github.com/cran/PCL
-	shallow = true
-	registered = true
 [submodule "tsriadditive"]
 	path = tsriadditive
 	url = https://github.com/andrewyyp/tsriadditive
-	shallow = true
-	registered = true
