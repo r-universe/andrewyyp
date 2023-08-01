@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ivsacim"]
-	path = ivsacim
-	url = https://github.com/cran/ivsacim
 [submodule "NMMIPW"]
 	path = NMMIPW
 	url = https://github.com/cran/NMMIPW
 [submodule "PCL"]
 	path = PCL
 	url = https://github.com/cran/PCL
+[submodule "ivsacim"]
+	path = ivsacim
+	url = https://github.com/cran/ivsacim
 [submodule "tsriadditive"]
 	path = tsriadditive
 	url = https://github.com/andrewyyp/tsriadditive
