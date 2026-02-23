@@ -8,9 +8,6 @@
 [submodule "PCL"]
 	path = PCL
 	url = https://github.com/cran/PCL
-[submodule "ivsacim"]
-	path = ivsacim
-	url = https://github.com/cran/ivsacim
 [submodule "tsriadditive"]
 	path = tsriadditive
 	url = https://github.com/andrewyyp/tsriadditive
